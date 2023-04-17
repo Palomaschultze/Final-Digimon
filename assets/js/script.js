@@ -42,5 +42,3 @@ function mostrarModal(name, level, img) {
     let buscardor = document.getElementById("buscador");
     buscardor.innerHTML
   }
-
-

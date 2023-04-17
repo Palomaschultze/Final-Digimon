@@ -1,5 +1,10 @@
+body{
+    margin-top: 90px !important;
+}
+
 #barra{
-    background-color: #ffc500;
+    background: linear-gradient(#ffc500, #0148c2);
+    
 }
 
 #imgDigimon{
