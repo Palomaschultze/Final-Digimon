@@ -1,0 +1,13 @@
+#barra{
+    background-color: #ffc500;
+}
+
+#imgDigimon{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    color: whitesmoke;
+    background-color: #0148c2;
+}
